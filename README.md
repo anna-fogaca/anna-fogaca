@@ -4,7 +4,7 @@ Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmen
 ## Skills 🛠️
 - **Linguagens**: Python, C e Java.
 - **Ferramentas**: Arduino, Git e Figma (UI/UX). 
-- **Áreas**: IoT, Inteligência Artificial, Ensino de Programação.
+- **Áreas**: Back-End, IoT, Ensino de Programação, Gestão de Projetos.
   
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
