@@ -7,7 +7,7 @@ Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmen
 - **Áreas**: IoT, Inteligência Artificial, Ensino de Programação
 
 ## Disciplinas que atualmente leciono 🎯
-- Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Programação Front-End; Jogos Digitais (Com C#);
+- Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Programação Front-End; Jogos Digitais (Com C#); Robótica (Arduino e C)
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,7 +18,11 @@ Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmen
 - ! EM ANDAMENTO
 - ! EM ANDAMENTO
 
-- 🎮 Amo desenvolver projetos utilizando a Arduino (Robótica).
-- 📚 Estou sempre estudando sobre novas tecnologias, principalmente tecnologias educacionais. 
+## Um pouco mais sobre mim:
+- Minha formação é em Engenharia da Computação pela UNIFATEC-PR.
+- Amo desenvolver projetos utilizando a Arduino (Robótica).
+- Sou professora há dois anos da SEED-PR. 
+- Estou sempre estudando sobre novas tecnologias, principalmente tecnologias educacionais.
+- Participo como treinadora de competições de Robótica. 
 
 
