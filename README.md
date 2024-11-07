@@ -15,8 +15,8 @@ Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmen
 - Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Programação Front-End; Jogos Digitais (Com C#); Robótica (Arduino e C)
 
 ## Projetos em Destaque 🚀
-- ! EM ANDAMENTO
-- ! EM ANDAMENTO
+- Projeto Integrador - Integrando todas as disciplinas do Técnico em um Sistema Único
+- Apiário Inteligente
 
 ## Um pouco mais sobre mim:
 - Minha formação é em Engenharia da Computação pela UNIFATEC-PR.
