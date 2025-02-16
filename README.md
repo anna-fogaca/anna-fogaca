@@ -2,7 +2,7 @@
 Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmente ensino alunos do ensino médio (Técnico de Desenvolvimento de Sistemas) e desenvolvo projetos focados em Internet das Coisas (IoT) e Python. 🌐
 
 ## Skills 🛠️
-- **Linguagens**: Python, C e Java.
+- **Linguagens que sou perdidamente apaixonada**: Python, C e Java.
 - **Ferramentas**: Arduino, Git e Figma (UI/UX). 
 - **Áreas**: Back-End, IoT, Ensino de Programação, Gestão de Projetos.
   
@@ -12,17 +12,18 @@ Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmen
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Disciplinas que atualmente leciono 🎯
-- Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Programação Front-End; Jogos Digitais (Com C#); Robótica (Arduino e C)
+- Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Programação Front-End (HTML, CSS); Jogos Digitais (Com C#); Robótica (Arduino e C) e Programação Dinâmica com Javascript; 
 
 ## Projetos em Destaque 🚀
-- Projeto Integrador - Integrando todas as disciplinas do Técnico em um Sistema Único
-- Apiário Inteligente
-- 
+- Projeto Integrador - Integrando todas as disciplinas do Técnico em um Sistema Único; 
+- Apiário Inteligente;
+- Criação de uma biblioteca completa com código para que os alunos possam realizar consulta; 
 
 ## Um pouco mais sobre mim:
 - Minha formação é em Engenharia da Computação pela UNIFATEC-PR.
 - Amo desenvolver projetos utilizando a Arduino (Robótica).
-- Sou professora há dois anos da SEED-PR. 
+- Sou professora há mais de dois anos da SEED-PR.
+- Também sou professora de Oficinas de Robótica na SEED-PR; 
 - Fui certificada como "Professora Inspiração de Recursos Educacionais Digitais" pela SEED-PR em 2024;
 - Participo como treinadora de competições de Robótica. 
 
