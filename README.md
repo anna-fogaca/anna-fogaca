@@ -16,11 +16,10 @@ Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmen
 
 ## Projetos em Destaque 🚀
 - Projeto Integrador - Integrando todas as disciplinas do Técnico em um Sistema Único; 
-- Apiário Inteligente;
 - Criação de uma biblioteca completa com código para que os alunos possam realizar consulta; 
 
 ## Um pouco mais sobre mim:
-- Minha formação é em Engenharia da Computação pela UNIFATEC-PR.
+- Minha formação é em Engenharia de Computação pela UNIFATEC-PR.
 - Amo desenvolver projetos utilizando a Arduino (Robótica).
 - Sou professora há mais de dois anos da SEED-PR.
 - Também sou professora de Oficinas de Robótica na SEED-PR; 
