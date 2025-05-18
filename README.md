@@ -2,7 +2,7 @@
 Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmente ensino alunos do ensino médio (Técnico de Desenvolvimento de Sistemas) e desenvolvo projetos focados em Internet das Coisas (IoT) e Python. 🌐
 
 ## Skills 🛠️
-- **Linguagens que sou perdidamente apaixonada**: Python, C e Java.
+- **Linguagens que sou perdidamente apaixonada**: Python e C/C++
 - **Ferramentas**: Arduino, Git e Figma (UI/UX). 
 - **Áreas**: Back-End, IoT, Ensino de Programação, Gestão de Projetos.
   
