@@ -12,11 +12,7 @@ Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmen
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ## Disciplinas que atualmente leciono 🎯
-- Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Programação Front-End (HTML, CSS); Jogos Digitais (Com C#); Robótica (Arduino e C) e Programação Dinâmica com Javascript; 
-
-## Projetos em Destaque 🚀
-- Projeto Integrador - Integrando todas as disciplinas do Técnico em um Sistema Único; 
-- Criação de uma biblioteca completa com código para que os alunos possam realizar consulta; 
+- Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Robótica (Arduino e C) e Programação Mobile (React Native)
 
 ## Um pouco mais sobre mim:
 - Minha formação é em Engenharia de Computação pela UNIFATEC-PR.
