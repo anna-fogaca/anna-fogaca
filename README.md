@@ -1,24 +1,56 @@
-# Oi, tudo certo? Eu sou a Anna Flávia
-Sou professora de programação na SEED-PR e apaixonada por tecnologia. Atualmente ensino alunos do ensino médio (Técnico de Desenvolvimento de Sistemas) e desenvolvo projetos focados em Internet das Coisas (IoT) e Python. 🌐
+<h1 align="center">Profª Anna Flávia Fogaça </h1>
 
-## Skills 🛠️
-- **Linguagens que sou perdidamente apaixonada**: Python e C/C++
-- **Ferramentas**: Arduino, Git e Figma (UI/UX). 
-- **Áreas**: Back-End, IoT, Ensino de Programação, Gestão de Projetos.
-  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<p align="center">
+  <img src="https://www.pngplay.com/wp-content/uploads/10/Dedenne-Pokemon-Transparent-Image.png" alt="Pokémon Fofo" width="150" />
+</p>
 
-## Disciplinas que atualmente leciono 🎯
-- Análise e Projeto de Sistemas; Desenvolvimento de Sistemas (Com C/C++); Programação Back-End (Com Python); Robótica (Arduino e C) e Programação Mobile (React Native)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FF6F00" alt="Python" />
+  <img src="https://img.shields.io/badge/Embarcados-00979D?style=for-the-badge&logo=arduino&logoColor=white&color=FF6F00" alt="Embarcados" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=FF6F00" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=FF6F00" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pokémon-FF6F00?style=for-the-badge&logo=pokemon&logoColor=white" alt="Pokémon" />
+</p>
 
-## Um pouco mais sobre mim:
-- Minha formação é em Engenharia de Computação pela UNIFATEC-PR.
-- Amo desenvolver projetos utilizando a Arduino (Robótica).
-- Sou professora há mais de dois anos da SEED-PR.
-- Também sou professora de Oficinas de Robótica na SEED-PR; 
-- Fui certificada como "Professora Inspiração de Recursos Educacionais Digitais" pela SEED-PR em 2024;
-- Participo como treinadora de competições de Robótica. 
+---
 
+## 💖 Sobre mim
 
+Sou professora de tecnologia, apaixonada por robótica, gatos e café ☕🐱. Tenho dois, Seraphine & Brunno, meus estagiários de T.I!  
+Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros 2025 da SEED-PR, lecionando Oficinas de Robótica sobre Carrinhos Seguidores de Linha e SumôBOT e como orientadora de Iniciação Científica do EPTEC-DS (SEED-PR).
+
+---
+
+## 🛠 Tecnologias
+
+<p align="center">
+  <img alt="Python" title="Python" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Arduino" title="Arduino" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+  <img alt="ESP32" title="ESP32" width="60px" style="padding-right: 10px;" src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg"/>
+  <img alt="MSP430 / Tiva-C" title="Texas Instruments - MSP430/Tiva-C" width="60px" style="padding-right: 10px;" src="https://companieslogo.com/img/orig/TXN-e197f953.png?t=1720244494"/>
+  <img alt="C++" title="C++" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="SQL" title="SQL" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img alt="React Native" title="React Native" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Java" title="Java" width="60px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Dedenne" title="Dedenne - meu Pokémon fav" width="60px" style="padding-right: 10px;" src="https://static.wikia.nocookie.net/victoryroad/images/6/69/XYArt_Dedenne.png/revision/latest?cb=20180807190448" />
+</p>
+
+---
+## 📊 Estatísticas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-fogaca)](https://github.com/anna-fogaca/github-readme-stats)
+<p align="center">
+  <img src="https://github.com/anna-fogaca/anna-fogaca/blob/output/github-contribution-grid-snake.svg" alt="snake game animado com meus commits" />
+</p>
+---
+
+## 📚 Se você for meu(minha) aluno(a)
+
+- Você pode usar como base os códigos dos repositórios que começam com o nome **BIBLIOTECA**.
+- Os códigos de Arduino estão no **Google Classroom** (na turma de Desenvolvimento de Sistemas Embarcados e/ou Robótica).
+- **SIM!** Pode usar como base. Prefiro que use códigos meus do que coisas aleatórias do ChatGPT e/ou Blackbox. 😤
+
+---
+
+<p align="center">
+  Feito com muito ❤️ e MUITO café!
+</p>
