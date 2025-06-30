@@ -1,0 +1,26 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # roda todo dia à meia-noite UTC
+  workflow_dispatch: # permite rodar manualmente no GitHub Actions
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: anna-fogaca
+          outputs: |
+            ./output/github-contribution-grid-snake.svg
+
+      - name: Commit and Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'generated snake'
+          add: './output/github-contribution-grid-snake.svg'
