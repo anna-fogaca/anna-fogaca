@@ -38,8 +38,9 @@ Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou l
 ---
 ## 📊 Estatísticas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anna-fogaca)](https://github.com/anna-fogaca/github-readme-stats)
+
 <p align="center">
-  <img src="https://github.com/anna-fogaca/anna-fogaca/blob/output/github-contribution-grid-snake.svg" alt="snake game animado com meus commits" />
+  <img src="https://github.com/anna-fogaca/anna-fogaca/blob/output/github-contribution-grid-snake.svg" alt="Snake game animado com meus commits" />
 </p>
 ---
 
