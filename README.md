@@ -17,7 +17,7 @@
 ## 💖 Sobre mim
 
 Sou professora de tecnologia, apaixonada por robótica, gatos e café ☕🐱. Tenho dois, Seraphine & Brunno, meus estagiários de T.I!  
-Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros 2025 da SEED-PR, lecionando Oficinas de Robótica sobre Carrinhos Seguidores de Linha e SumôBOT e como orientadora de Iniciação Científica do EPTEC-DS (SEED-PR).
+Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros 2025 da SEED-PR, lecionando Oficinas de Robótica sobre Carrinhos Seguidores de Linha e SumôBOT, orientadora de Iniciação Científica do EPTEC-DS (SEED-PR) e treinadora da equipe de competição Ctrl+BOTS.
 
 ---
 
