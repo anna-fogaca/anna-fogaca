@@ -46,7 +46,12 @@ Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou l
 </p>
 
 ---
+## 🏅 Premiações & Certificações
 
+- 🥈 Menção Honrosa como Oficineira de Robótica - SEED/PR (2025)
+- 🎓 Certificado de Professora Inspiração Recursos Educacionais Digitais - SEED/PR (2024)
+
+---
 ## 📚 Se você for meu(minha) aluno(a)
 
 - Você pode usar como base os códigos dos repositórios que começam com o nome **BIBLIOTECA**.
