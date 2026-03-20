@@ -16,8 +16,8 @@
 
 ## 💖 Sobre mim
 
-Sou professora de tecnologia, apaixonada por robótica, gatos e café ☕🐱. Tenho dois (gatos, no caso, não cafés!), Seraphine & Brunno, meus estagiários de T.I!  
-Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros 2025 da SEED-PR, lecionando Oficinas de Robótica sobre Carrinhos Seguidores de Linha e SumôBOT, orientadora de Iniciação Científica do EPTEC-DS (SEED-PR) e treinadora da equipe de competição Ctrl+BOTS.
+Sou professora de tecnologia, apaixonada por robótica, gatos e café ☕🐱. Tenho dois gatinhos, Seraphine & Brunno Henrique, meus estagiários de T.I!  
+Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros da SEED-PR e professora orientadora da Equipe de Competição PítonDevs. Também já fui orientadora de Iniciação Científica do EPTEC-DS (SEED-PR) e treinadora de equipes de competição de robótica.
 
 ---
 
@@ -48,6 +48,8 @@ Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou l
 ---
 ## 🏅 Premiações & Certificações
 
+- 🥈 3º Lugar como Protótipo Inteligente e 2º Lugar como Campeões Gerais na Competição da VieTech (2025) - Como profª Orientadora.
+- 🥈 Finalista do 1º Desafio EPT da SEED-PR (2025) - Como profª orientadora. 
 - 🥈 Menção Honrosa como Oficineira de Robótica - SEED/PR (2025)
 - 🎓 Certificado de Professora Inspiração Recursos Educacionais Digitais - SEED/PR (2024)
 
@@ -55,7 +57,7 @@ Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou l
 ## 📚 Se você for meu(minha) aluno(a)
 
 - Você pode usar como base os códigos dos repositórios que começam com o nome **BIBLIOTECA**.
-- Os códigos de Arduino estão no **Google Classroom** (na turma de Desenvolvimento de Sistemas Embarcados e/ou Robótica).
+- Os códigos de Arduino estão no **Google Classroom** e no repositório **Laboratório de Sistemas Embarcados**
 - **SIM!** Pode usar como base. Prefiro que use códigos meus do que coisas aleatórias do ChatGPT e/ou Blackbox. 😤
 
 ---
