@@ -1,4 +1,4 @@
-<h1 align="center">Profª Anna Flávia Fogaça </h1>
+<h1 align="center">Profª Engª Anna Flávia Fogaça </h1>
 
 <p align="center">
   <img src="https://www.pngplay.com/wp-content/uploads/10/Dedenne-Pokemon-Transparent-Image.png" alt="Pokémon Fofo" width="150" />
@@ -17,7 +17,7 @@
 ## 💖 Sobre mim
 
 Sou professora de tecnologia, apaixonada por robótica, gatos e café ☕🐱. Tenho dois gatinhos, Seraphine & Brunno Henrique, meus estagiários de T.I!  
-Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros da SEED-PR e professora orientadora da Equipe de Competição PítonDevs. Também já fui orientadora de Iniciação Científica do EPTEC-DS (SEED-PR) e treinadora de equipes de competição de robótica.
+Sou Engª de Computação (UNIFATEC-PR), apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros da SEED-PR e professora orientadora da Equipe de Competição PítonDevs. Também já fui orientadora de Iniciação Científica do EPTEC-DS (SEED-PR) e treinadora de equipes de competição de robótica.
 
 ---
 
@@ -48,6 +48,7 @@ Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou l
 ---
 ## 🏅 Premiações & Certificações
 
+- 🥈 Finalista do 2º Desafio EPT da SEED-PR (2026) - Como profª orientadora. 
 - 🥈 3º Lugar como Protótipo Inteligente e 2º Lugar como Campeões Gerais na Competição da VieTech (2025) - Como profª Orientadora.
 - 🥈 Finalista do 1º Desafio EPT da SEED-PR (2025) - Como profª orientadora. 
 - 🥈 Menção Honrosa como Oficineira de Robótica - SEED/PR (2025)
@@ -58,7 +59,7 @@ Sou Engª de Computação, apaixonada por Robótica e Python. Atualmente estou l
 
 - Você pode usar como base os códigos dos repositórios que começam com o nome **BIBLIOTECA**.
 - Os códigos de Arduino estão no **Google Classroom** e no repositório **Laboratório de Sistemas Embarcados**
-- **SIM!** Pode usar como base. Prefiro que use códigos meus do que coisas aleatórias do ChatGPT e/ou Blackbox. 😤
+- **SIM!** Pode usar como base. Prefiro que use códigos meus do que coisas aleatórias do ChatGPT ou Gemini da vida. 😤
 
 ---
 
