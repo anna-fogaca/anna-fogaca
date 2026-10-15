@@ -17,7 +17,7 @@
 ## 💖 Sobre mim
 
 Sou professora de tecnologia, apaixonada por robótica, gatos e café ☕🐱. Tenho dois gatinhos, Seraphine & Brunno Henrique, meus estagiários de T.I!  
-Sou Engª de Computação (UNIFATEC-PR), apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros da SEED-PR e professora orientadora da Equipe de Competição PítonDevs. Também já fui orientadora de Iniciação Científica do EPTEC-DS (SEED-PR) e treinadora de equipes de competição de robótica.
+Sou Mestranda pelo CPGEI (UTFPR) na área de concentração em Engenharia de Automação e Sistemas e Engª de Computação pela UNIFATEC-PR, apaixonada por Robótica e Python. Atualmente estou lecionando no técnico de Desenvolvimento de Sistemas (SEED-PR), no projeto de Oficineiros da SEED-PR e professora orientadora da Equipe de Competição Píton. Também já fui orientadora de Iniciação Científica do EPTEC-DS (SEED-PR) e treinadora de equipes de competição de robótica.
 
 ---
 
@@ -48,6 +48,7 @@ Sou Engª de Computação (UNIFATEC-PR), apaixonada por Robótica e Python. Atua
 ---
 ## 🏅 Premiações & Certificações
 
+- 🥈 Finalista do 2º Desafio EPT da SEED-PR (2026) - Como profª orientadora. 
 - 🥈 Finalista do 2º Desafio EPT da SEED-PR (2026) - Como profª orientadora. 
 - 🥈 3º Lugar como Protótipo Inteligente e 2º Lugar como Campeões Gerais na Competição da VieTech (2025) - Como profª Orientadora.
 - 🥈 Finalista do 1º Desafio EPT da SEED-PR (2025) - Como profª orientadora. 
