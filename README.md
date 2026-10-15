@@ -49,7 +49,6 @@ Sou Mestranda pelo CPGEI (UTFPR) na área de concentração em Engenharia de Aut
 ## 🏅 Premiações & Certificações
 
 - 🥈 Finalista do 2º Desafio EPT da SEED-PR (2026) - Como profª orientadora. 
-- 🥈 Finalista do 2º Desafio EPT da SEED-PR (2026) - Como profª orientadora. 
 - 🥈 3º Lugar como Protótipo Inteligente e 2º Lugar como Campeões Gerais na Competição da VieTech (2025) - Como profª Orientadora.
 - 🥈 Finalista do 1º Desafio EPT da SEED-PR (2025) - Como profª orientadora. 
 - 🥈 Menção Honrosa como Oficineira de Robótica - SEED/PR (2025)
